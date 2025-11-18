@@ -31,7 +31,7 @@ Classic movies marked with a badge
 
 GitHub Repository Link
 
-
+https://github.com/dhanushyahadapad/movie-collection-api.git
 
 Author
 
